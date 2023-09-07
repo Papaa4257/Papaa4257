@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Papaa4257
-- 👀 I’m interested in software programming ang software engineering
+- 👀 I’m interested in software programming and software engineering
 - 🌱 I’m currently learning software engineering from ALX
 - 💞️ I’m looking to collaborate on all opportunities
 - 📫 How to reach me @ papaajessu@gmail.com
